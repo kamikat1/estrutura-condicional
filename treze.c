@@ -8,6 +8,7 @@ int main()
     scanf("%f %f %f %f", &a, &b, &c, &d);
  
     menor=a;
+    maior=a;
  
     if(a>maior)
         maior=a;
