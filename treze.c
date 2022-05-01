@@ -37,13 +37,3 @@ int main()
     return 0;
 }
 
-    else if ((d < a)&&(d<b)&&(d<c)){
-        menor= d;
-    }
-
-
-    printf("%.1f eh o maior numero\n", maior);
-    printf("%.1f eh o menor numero", menor);
-
-    return 0;
-}
